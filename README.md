@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/traptijindal/traptijindal/assets/130233959/55bab8af-ccb0-4a45-8de9-d2db19c716f2" alt="github-header-image" />
+  <img src="https://github.com/traptijindal/traptijindal/blob/main/Gemini_Generated_Image_ixocclixocclixoc.png?raw=true" alt="github-header-image" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Trapti Jindal</h1>
